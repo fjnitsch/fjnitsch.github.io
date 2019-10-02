@@ -10,4 +10,6 @@ Contact: felix.nitsch(at)hhu.de
 
 ## Resources
 
+<a href="/files/html/NeurdPres.html">Introduction to Computational Modeling</a>
+
 <a href="/files/pdf/2019-09-10-RevPref-Basics.pdf">Super short intro to GARP</a>
