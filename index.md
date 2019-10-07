@@ -14,5 +14,7 @@ Then we are just the right meetup to join!
 [Twitter](https://twitter.com/__neurd__)
 
 Logo designed by Nia James Starr
-IG: littlestarrdust
-Website: http://littleniak.com
+
+[Instagram](https://www.instagram.com/littlestarrdust/)
+
+[Website](http://littleniak.com)
