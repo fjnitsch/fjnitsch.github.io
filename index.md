@@ -6,14 +6,14 @@
 
 ![NEURD Logo](/files/images/NEURD-logo.png)
 
-NEURD is a regional community of early career researchers in computational neuroscience, psychology and related disciplines. We organize rotating short presentations with subsequent discussion. The aim is to learn from each other and to network.
+**NEURD** is a regional community of early career researchers in computational neuroscience, psychology and related disciplines. We organize rotating short presentations with subsequent discussion. The aim is to learn from each other and to network.
 
 Are you an early career researcher in computational neuroscience (around NRW, Germany)?
 Then we are just the right meetup to join!
 
-[Twitter](https://twitter.com/__neurd__)
+Follow us on [Twitter](https://twitter.com/__neurd__)!
 
-Logo designed by Nia James Starr
+**Logo designed by Nia James Starr**
 
 [Instagram](https://www.instagram.com/littlestarrdust/)
 
