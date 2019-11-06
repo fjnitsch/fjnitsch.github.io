@@ -2,11 +2,11 @@
 
 --
 
-[2nd-Meet-Up](/files/images/Felix-at-NEURD)
+![2nd-Meet-Up](/files/images/Felix-at-NEURD)
 
 ## *NEURD is taking shape. The second meet-up featured discussions on Bayesian statistics, the strengths and weakness of generative models compared to machine learning and Indian food in the heart of Cologne, Germany. Want to join and become a fellow Neurdling? Just send us a [mail](neurdsarefun@gmail.com)!*
 
-[Read more](/pages/blogposts/061119_NEURD.md)
+![Read more](/pages/blogposts/061119_NEURD.md)
 
 --
 
