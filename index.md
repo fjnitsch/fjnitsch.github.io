@@ -1,8 +1,4 @@
-# Posts
-
---
-
-## Neurdlings, Bayes & 2nd Meet-Up
+# Neurdlings, Bayes & 2nd Meet-Up
 
 ![2nd-Meet-Up](/files/images/Felix-at-NEURD.jpeg)
 
@@ -12,7 +8,7 @@
 
 --
 
-## Launch of NEURD - meetup for computational neuroscience
+# Launch of NEURD - meetup for computational neuroscience
 
 ![NEURD Logo](/files/images/NEURD-logo.png)
 
