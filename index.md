@@ -2,7 +2,7 @@
 
 ![2nd-Meet-Up](/files/images/Felix-at-NEURD.jpeg)
 
-*NEURD is taking shape. The second meet-up featured discussions on Bayesian statistics, the strengths and weakness of generative models compared to machine learning and Indian food in the heart of Cologne, Germany.
+**NEURD** is taking shape. The second meet-up featured discussions on Bayesian statistics, the strengths and weakness of generative models compared to machine learning and Indian food in the heart of Cologne, Germany.
 
 [Read more](/pages/blogposts/NEURD_061119.md)
 
