@@ -1,4 +1,5 @@
-# Neurdlings, Bayes & 2nd Meet-Up
+# Neurdlings, Bayes and 2nd Meet-Up
+Posted on Nov 6, 2019.
 
 ![2nd-Meet-Up](/files/images/Felix-at-NEURD.jpeg)
 
