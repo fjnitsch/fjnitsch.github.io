@@ -1,3 +1,12 @@
+# Entscheidungsforschung und Projektmanagement
+Posted on Dec 30, 2019.
+
+Was können wir aus der Entscheidungsforschung über Projektmanagement lernen? Zu diesem Thema habe ich mich mit der Innovationsberatungsfirma MABUTE ausgetauscht. Meiner Einschätzung nach spielt die Motivation des Teams eine zentrale Rolle...
+
+[Read more](https://www.mabute.com/interview-felix-nitsch/?fbclid=IwAR187O4LUzunDlg94K9SKb6DeTsnMuOq9uwn4Mc_3_CP5OPWNF4D7Ef2kpc)
+
+--
+
 # Neurdlings, Bayes and 2nd Meet-Up
 Posted on Nov 6, 2019.
 
