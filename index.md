@@ -1,3 +1,16 @@
+# New Pre-Print out!
+Posted on Feb 18, 2020.
+
+**Keeping a cool head at all times. What determines choice consistency?**
+
+In a review of recent literature we identify trait and state factors that
+influence the consistency (i.e. quality) of our decisions and find
+some unexpected results.
+
+[Read more](https://psyarxiv.com/etyhx)
+
+--
+
 # Entscheidungsforschung und Projektmanagement
 Posted on Dec 30, 2019.
 
