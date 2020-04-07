@@ -3,11 +3,14 @@ logo: "/files/images/Research-Avatar.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a PhD Student in Prof. Tobias Kalenscher's Lab at Heinrich-Heine University Düsseldorf, Germany.
   <br><br>
-  
-  <a href="https://www.linkedin.com/in/felix-jan-nitsch-823548199/">Curriculum Vitae</a>
+
+  <a href="/index.html">Posts</a>
+  <br><br>
+
+  <a href="/pages/publications.html">Publications</a>
   <br><br>
   
-  <a href="/index.html">Posts</a>
+  <a href="https://www.linkedin.com/in/felix-jan-nitsch-823548199/">Curriculum Vitae</a>
   <br><br>
   
   <a href="/pages/resources.html">Resources</a>
