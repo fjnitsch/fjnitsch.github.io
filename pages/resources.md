@@ -2,6 +2,12 @@
 
 ### Presentations
 
+<a href="/files/pdf/2020-03-22_Open-Science.pdf"
+
+Keywords: open science, registered reports, early career researchers
+
+--
+
 <a href="/files/html/NeurdPres.html">**Bayesian Modeling of Choice**</a>
 
 Keywords: bayes, computational modeling, jags, prospect theory 
