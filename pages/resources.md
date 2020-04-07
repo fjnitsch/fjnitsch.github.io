@@ -2,7 +2,7 @@
 
 ### Presentations
 
-<a href="/files/pdf/2020-03-22_Open-Science.pdf"
+<a href="/files/pdf/2020-03-22_Open-Science.pdf"**Open Science for ECR**</a>
 
 Keywords: open science, registered reports, early career researchers
 
