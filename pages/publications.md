@@ -5,7 +5,7 @@
 
 **Nitsch, F. J.**, & Kalenscher, T. (2020, February 14). Influence of memory processes on choice consistency. S1 Registered Report. Retrieved from osf.io/2vx36
 
-Gieselmann, A., **Nitsch, F. J.**, Holsteg, S., & Pietrowsky, R. (in submission). Changes in sleep state misperception after psychotherapy for insomnia occurred after sleep restriction and in the absence of cognitive therapy .
+Gieselmann, A., **Nitsch, F. J.**, Holsteg, S., Barthels, F., & Pietrowsky, R. (in submission). Changes in sleep state misperception after psychotherapy for insomnia occurred after sleep restriction and in the absence of cognitive therapy .
 
 ## In Preparation:
 **Nitsch, F. J.**, Sellitto, M., & Kalenscher, T. (in preparation). Irrational or dynamically adaptive? Decision-making under stress.
