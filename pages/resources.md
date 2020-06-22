@@ -18,6 +18,8 @@ Keywords: bayes, computational modeling, jags, prospect theory
 
 Keywords: revealed preference, GARP, rationality
 
+--
+
 ### Animations
 
 <a href="/files/html/Rotating_Cube.html">**Rotating Cube**</a>
