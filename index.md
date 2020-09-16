@@ -4,7 +4,7 @@ Posted on Aug 11, 2020.
 ![Registered Reports](/files/images/RsosPubFig.pdf)
 
 Super stoked that my first #RegisteredReport got in-principle accepted at Royal Society Open Science!
-https://osf.io/akgt9/
+[OSF](https://osf.io/akgt9/).
 
 "The influence of memory processes on choice consistency"
 
