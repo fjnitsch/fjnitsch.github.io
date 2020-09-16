@@ -1,3 +1,17 @@
+# My first registered report: IPA at Royal Society Open Science
+Posted on Aug 11, 2020.
+
+![Registered Reports](/files/images/RsosPubFig.pdf)
+
+Super stoked that my first #RegisteredReport got in-principle accepted at Royal Society Open Science!
+https://osf.io/akgt9/
+
+"The influence of memory processes on choice consistency"
+
+Fully Bayesian, including self-replication and cognitive modelling.
+
+--
+
 # Registered Reports for Early Career Researchers
 Posted on Apr 7, 2020.
 
