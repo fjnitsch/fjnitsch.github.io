@@ -1,5 +1,5 @@
 # 3-Part Video Series on Open Science
-Postesd on Nov 5, 2020.
+Posted on Nov 5, 2020.
 
 [![Playlist](/files/images/VideoThumbnail.jpg)](https://www.youtube.com/playlist?list=PLA4sf7DGYk9kjMwpVCk3cfIHZi33JBC51)
 (Click the Image for Link)
