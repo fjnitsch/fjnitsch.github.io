@@ -1,3 +1,18 @@
+# 3-Part Video Series on Open Science
+Postesd on Nov 5, 2020.
+
+[![Playlist](/files/images/VideoThumbnail.jpg)](https://www.youtube.com/playlist?list=PLA4sf7DGYk9kjMwpVCk3cfIHZi33JBC51)
+(Click the Image for Link)
+
+As part of my online teaching this semester I created a
+3-part video series on Open Science. It covers:
+
+- The Problems with Conventional Science
+- Open Science Best Practices
+- Caveats to consider with Open Science
+
+--
+
 # My first registered report: IPA at Royal Society Open Science
 Posted on Aug 11, 2020.
 
