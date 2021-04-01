@@ -2,7 +2,7 @@
 
 ### Presentations
 
-<a href="/files/pdf/2021-04-1_PresentationPadua.pdf">**Keeping your cool. The effects of acute and chronic stress on rationality**</a>
+<a href="/files/pdf/2021-04-01_PresentationPadua.pdf">**Keeping your cool. The effects of acute and chronic stress on rationality**</a>
 
 Keywords: stress, rationality, choice consistency
 
