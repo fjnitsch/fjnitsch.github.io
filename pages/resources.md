@@ -2,6 +2,12 @@
 
 ### Presentations
 
+<a href="/files/pdf/2021-04-1_PresentationPadua.pdf">**Keeping your cool. The effects of acute and chronic stress on rationality**</a>
+
+Keywords: stress, rationality, choice consistency
+
+--
+
 <a href="/files/pdf/2020-03-22_Open-Science.pdf">**Open Science for ECR**</a>
 
 Keywords: open science, registered reports, early career researchers
