@@ -1,5 +1,10 @@
 ## Resources
 
+### Videos
+
+**3-Part Video Series on Open Science**
+[![Playlist](/files/images/VideoThumbnail.jpg)](https://www.youtube.com/playlist?list=PLA4sf7DGYk9kjMwpVCk3cfIHZi33JBC51)
+
 ### Presentations
 
 <a href="/files/pdf/2021-04-01_PresentationPadua.pdf">**Keeping your cool. The effects of acute and chronic stress on rationality**</a>
