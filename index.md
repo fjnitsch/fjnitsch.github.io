@@ -1,7 +1,9 @@
 # Lots of new publications
 Posted on Aug 4, 2021.
 
-![New Publications](/files/images/New_Publications.png)(https://fjnitsch.github.io/pages/publications.html)
+I have been productive in 2021 :)
+
+[![New Publications](/files/images/New_Publications.png)](https://fjnitsch.github.io/pages/publications.html)
 
 # 3-Part Video Series on Open Science
 Posted on Nov 5, 2020.
