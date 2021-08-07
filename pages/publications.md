@@ -2,7 +2,7 @@
 
 ## Journal Articles
 
-**Nitsch, F.J.**, Strenger, H., Knecht, S., & Studer, B. (*in press*). Lesion evidence for a causal role of the insula in aversion to social inequity. Social, Cognitive und Affective Neuroscience.
+**Nitsch, F. J.**, Strenger, H., Knecht, S., & Studer, B. (2021). Lesion Evidence for a Causal Role of the Insula in Aversion to Social Inequity. Social Cognitive and Affective Neuroscience, nsab098. https://doi.org/10/gmfpxm
 
 **Nitsch, F. J.**, Sellitto, M., & Kalenscher, T. (2021). The effects of acute and chronic stress on choice consistency. Psychoneuroendocrinology, 131, 105289. https://doi.org/10/gk9pvk
 
