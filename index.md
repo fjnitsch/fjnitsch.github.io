@@ -1,4 +1,4 @@
-#New Blogpost! Resumé of Open Neuroscience & Psychology
+# New Blogpost! Resumé of Open Neuroscience & Psychology
 
 During the last year (#corona), I have taught 4-week online course on open science in the fields of neuroscience and psychology. In an attempt to fully utilize the online teaching format, I utilized various channels of communication such as YouTube-Videos, interactive WebEx-Sessions, media- and research articles, brief presentations, and an essay project. As of this winter, I will no longer be able to teach the course (news coming soon). Hence, with this blog post, I want to provide a quick wrap-up of the students’ evaluations, my own experiences and the future of the course.
 
