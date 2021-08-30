@@ -3,7 +3,7 @@ Posted on Aug, 30, 2021.
 
 ![Decisions](/files/images/decision_trees.jpg)
 
-The last days I have been trying out some generative art in R, to use for my dissertation cover. In the process I have created a Shiny app, that presents you questions from Pop-Songtitles and visualizes your responses as a decision path. Stochastically, a path might branch off and show you how a different state of the world would look like. Feel free to [try out](fjnitsch.shinyapps.io/DecisionArt/) and send me your prettiest results:
+The last days I have been trying out some generative art in R, to use for my dissertation cover. In the process I have created a Shiny app, that presents you questions from Pop-Songtitles and visualizes your responses as a decision path. Stochastically, a path might branch off and show you how a different state of the world would look like. Feel free to [try out](https://fjnitsch.shinyapps.io/DecisionArt/) and send me your prettiest results:
 
 
 # New Blogpost! Resumé of Open Neuroscience & Psychology
