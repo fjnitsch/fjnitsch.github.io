@@ -1,4 +1,13 @@
+# Playing around with #rtistry for my dissertation cover
+Posted on Aug, 30, 2021.
+
+![Decisions](/files/images/decision_trees.jpg)
+
+The last days I have been trying out some generative art in R, to use for my dissertation cover. In the process I have created a Shiny app, that presents you questions from Pop-Songtitles and visualizes your responses as a decision path. Stochastically, a path might branch off and show you how a different state of the world would look like. Feel free to [try out](fjnitsch.shinyapps.io/DecisionArt/) and send me your prettiest results:
+
+
 # New Blogpost! Resumé of Open Neuroscience & Psychology
+Posted on Aug 11, 2021.
 
 During the last year (#corona), I have taught 4-week online course on open science in the fields of neuroscience and psychology. In an attempt to fully utilize the online teaching format, I utilized various channels of communication such as YouTube-Videos, interactive WebEx-Sessions, media- and research articles, brief presentations, and an essay project. As of this winter, I will no longer be able to teach the course (news coming soon). Hence, with this blog post, I want to provide a quick wrap-up of the students’ evaluations, my own experiences and the future of the course.
 
