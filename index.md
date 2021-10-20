@@ -1,3 +1,11 @@
+# New Publication out! Influence of memory processes on choice consistency
+Posted on Oct 20, 2021.
+
+This was a ride! My first registered report (stage 2) was just published at Royal Society Open Science.
+
+[Publication](https://royalsocietypublishing.org/doi/10.1098/rsos.200308)
+[Tweet-Summary](https://threadreaderapp.com/thread/1450739741851258884.html)
+
 # Playing around with #rtistry for my dissertation cover
 Posted on Aug, 30, 2021.
 
