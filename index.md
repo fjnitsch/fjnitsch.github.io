@@ -1,3 +1,10 @@
+# I started a Post-Doc in France
+Posted on Nov 25, 2021
+
+Very happy and grateful to pursue a Post Doc with Hilke Plassmann at INSEAD Business School and the ICM Paris Brain Institute of Sorbonne University. The first weeks have been amazing already.
+
+![INSEAD](/files/images/Felix_Insead.jpg)
+
 # New Publication out! Influence of memory processes on choice consistency
 Posted on Oct 20, 2021.
 
