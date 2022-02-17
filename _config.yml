@@ -1,8 +1,11 @@
 title: Felix Jan Nitsch # your name (or website title) here
 logo: "/images/avatar.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
-  ____
+  <br>
+
+  Hello, world!
+
+  ____<br>
 
   <a href="/index.html">Start</a>
   <br>
