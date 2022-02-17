@@ -1,16 +1,13 @@
 title: Felix Jan Nitsch # your name (or website title) here
-logo: "/files/images/Research-Avatar.jpg?raw=true" # your photo (or logo) here
+logo: "/images/avatar.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a Post Doc at Insead Business School and the ICM Paris Brain Institute.
-  <br><br>
-
-  <a href="/index.html">Posts</a>
+  <a href="/index.html">Start</a>
   <br>
 
-  <a href="/pages/publications.html">Publications</a>
+  <a href="https://www.linkedin.com/in/fjnitsch/">LinkedIn</a>
   <br>
-    
-  <a href="/pages/resources.html">Resources</a>
+
+  <a href="https://scholar.google.com/citations?user=hCelLF8AAAAJ&hl=de&oi=ao">Publications</a>
   <br>
 
   <a href="https://twitter.com/felixjannitsch">Twitter</a>
