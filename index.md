@@ -3,9 +3,9 @@
 
 # About Me
 
-I am a [Postdoctoral Researcher](https://www.insead.edu/faculty-research/faculty/felix-jan-nitsch) in Marketing at INSEAD Business School, where I study consumer behavior, specifically with a focus on transformative consumer research and consumer protection. I  work closely together with [Hilke Plassmann](https://www.insead.edu/faculty-research/faculty/hilke-plassmann) and often seek the excellent advice of [Klaus Wertenbroch](https://www.insead.edu/faculty-research/faculty/klaus-wertenbroch).
+I am a [Postdoctoral Researcher](https://www.insead.edu/faculty-research/faculty/felix-jan-nitsch) in Marketing at INSEAD Business School. **I am on the job market this year (2024)!**
 
-In my research I use my background in cognitive and biological psychology as well as behavioral economics to analyze consumer behavior for potential imbalances and vulnerabilities. Thereby I draw upon an array of state-of-the-art methods ranging from gamified online experiments, over web-scraping and Bayesian cognitive models, to hormonal analyses.
+I study the principles of consumer and managerial decision-making, and its two-way relationship with mental wellbeing. The current empirical context of my research are social media platforms and luxury goods, two areas where consumers accept high costs to signal (and self-signal) their social status. I want to understand how rational and informed consumer decision-making is in this context, to evaluate the need for policy intervention. My research uses insights and methodologies from mathematical psychology, behavioral economics, and decision neuroscience. I work closely together with [Hilke Plassmann](https://www.insead.edu/faculty-research/faculty/hilke-plassmann) and [Klaus Wertenbroch](https://www.insead.edu/faculty-research/faculty/klaus-wertenbroch).
 
 I also ad honorem lead [EDUCAT](https://www.educatgermany.com), an international non-profit association of ca. 30 volunteers from Syria to Kenya. In a nutshell, we consult educational projects in the Global South on impact measurement and fundraising.
 
