@@ -9,4 +9,6 @@ I study the principles of consumer and managerial decision-making, and its two-w
 
 I also ad honorem lead [EDUCAT](https://www.educatgermany.com), an international non-profit association of ca. 30 volunteers from Syria to Kenya. In a nutshell, we consult educational projects in the Global South on impact measurement and fundraising.
 
-If you have some questions regarding my research or just would like to chat please do no hesitate to reach out: [felixjan.nitsch(at)insead.edu](mailto:felixjan.nitsch@insead.edu) 
+If you have some questions regarding my research or just would like to chat please do no hesitate to reach out: [felixjan.nitsch(at)insead.edu](mailto:felixjan.nitsch@insead.edu)
+
+You can also provide me feedback anonymously [here](https://www.admonymous.co/nitschfj).
