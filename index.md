@@ -1,13 +1,11 @@
 
 ![INSEAD](/images/header.jpeg)
 
-## My Research
+# About Me
 
-Western societies are shaken by cultural and geopolitical conflicts, and the public may experience them more vividly than ever through social media. In these uncertain times, many feel anxious, stressed out, and struggle to get ahead. Marketing managers must respond to the changed needs of consumers that these developments entail, understand the economic and ethical tradeoffs they navigate, and be wary of how their own judgments are affected. I study consumer and managerial decision-making, and their two-way relationship with mental health and social status. My goal is to understand how psychological stressors and incentives shape behavior in order to inform managerial market, as well as public policy design.
+I am a [Postdoctoral Researcher](https://www.insead.edu/faculty-research/faculty/felix-jan-nitsch) in Marketing at INSEAD. I am on the 2024 job market for faculty positions in Marketing.
 
-## About Me
-
-I am a [Postdoctoral Researcher](https://www.insead.edu/faculty-research/faculty/felix-jan-nitsch) in Marketing at INSEAD. I am on the job market for faculty positions in Marketing.
+I study the principles of consumer and managerial decision-making, and its two-way relationship with mental wellbeing. With uncertainty and anxiety on the rise, marketing managers must respond to the changed needs of consumers that these developments entail, understand the economic and ethical tradeoffs they navigate, and be wary of how their own judgments and choices are affected. My training and PhD are in experimental psychology during which I published on economic decision-making and the neuropsychology of stress, among other topics, and my methodological approach to research reflects this diversity. I work closely together with [Hilke Plassmann](https://www.insead.edu/faculty-research/faculty/hilke-plassmann) and [Klaus Wertenbroch](https://www.insead.edu/faculty-research/faculty/klaus-wertenbroch).
 
 I also ad honorem lead [EDUCAT](https://www.educatgermany.com), an international non-profit association of ca. 30 volunteers from Syria to Kenya. In a nutshell, we consult educational projects in the Global South on impact measurement and fundraising.
 
