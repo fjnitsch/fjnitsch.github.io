@@ -3,7 +3,7 @@
 
 ## My Research
 
-Western societies are shaken by cultural and geopolitical conflicts, and the public may experience them more vividly than ever through social media. In these uncertain times, many feel anxious, stressed out, and struggle to get ahead. In front of this background, marketing managers must respond to the changed needs of consumers that these developments entail, understand the economic and ethical tradeoffs they navigate in their business decisions, and be wary of how their own judgments and choices are affected. In my research, I study consumer and managerial decision-making, and their two-way relationship with mental health and social status. My goal is to understand how psychological stressors and incentives shape behavior in order to inform managerial market, as well as public policy design.
+Western societies are shaken by cultural and geopolitical conflicts, and the public may experience them more vividly than ever through social media. In these uncertain times, many feel anxious, stressed out, and struggle to get ahead. Marketing managers must respond to the changed needs of consumers that these developments entail, understand the economic and ethical tradeoffs they navigate, and be wary of how their own judgments are affected. I study consumer and managerial decision-making, and their two-way relationship with mental health and social status. My goal is to understand how psychological stressors and incentives shape behavior in order to inform managerial market, as well as public policy design.
 
 ## About Me
 
