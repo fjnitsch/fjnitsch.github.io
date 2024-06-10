@@ -5,7 +5,7 @@
 
 I am a [Postdoctoral Researcher](https://www.insead.edu/faculty-research/faculty/felix-jan-nitsch) in Marketing at INSEAD. I am on the 2024 job market for faculty positions in Marketing.
 
-I study the principles of consumer and managerial decision-making, and their two-way relationship with mental wellbeing. With uncertainty and anxiety on the rise, marketing managers must respond to the changed needs of consumers that these developments entail. They must understand the economic and ethical tradeoffs they navigate and be wary of how their own judgments and choices are affected. 
+I study the principles of consumer and managerial decision-making, and their two-way relationship with mental wellbeing. With uncertainty and anxiety on the rise in Western societies, marketing managers must respond to the changed needs of consumers that these developments entail. They must understand the economic and ethical tradeoffs they navigate and be wary of how their own judgments and choices are affected. 
 
 My training and PhD are in experimental psychology during which I published on economic decision-making and the neuropsychology of stress, among other topics. My methodological approach to research reflects this diversity. During my Post Doc, I worked closely together with [Hilke Plassmann](https://www.insead.edu/faculty-research/faculty/hilke-plassmann) and [Klaus Wertenbroch](https://www.insead.edu/faculty-research/faculty/klaus-wertenbroch).
 
