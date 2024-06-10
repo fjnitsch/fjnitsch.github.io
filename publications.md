@@ -5,6 +5,11 @@ filename: publications.md
 
 # Working Papers
 
+Nitsch, F.J., Wertenbroch, K., & Plassmann, H. (2024). Why People Post. Targeting JMR. (Working Paper available upon request=
+
+Nitsch, F.J. & Plassmann, H. (2024). Understanding the Intersections of Stress and the Marketplace to Improve Consumer Well-Being. Submitted to JCR. ([Working Paper]("https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816043"))
+
+Sarmiento, L.F., Rios-Flores, J.A., Rincon Uribe, F., Rodrigues Lima, R., Kalenscher, T., Gouveia, A., **Nitsch, F.J.**,++ (2024). Pharmacological interventions on the HPA axis and/or SAM System and decision-making: a systematic review. Minor revisions at Social, Cognitive, and Affective Neuroscience. ([Working Paper request]("files/2024-06-06_Pharma-Review-Revisions - AR_FJN.pdf"")])
 
 # Selected Publications
 
@@ -28,4 +33,4 @@ ___
 
 Please see also my [Google Scholar](https://scholar.google.com/citations?user=hCelLF8AAAAJ&hl=en&oi=ao) page.
 
-"+" = equal contributions
+"+" = equal contributions, "++" = last author (senior author) in neuroscience tradition
