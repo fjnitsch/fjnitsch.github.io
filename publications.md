@@ -11,13 +11,13 @@ filename: publications.md
 
 Bee, C., Chung, N., **Nitsch, F.J.**, Nardini, G., Lutz, R., Rossi, A., Scheinbaum, A.C., & Song, E.C. (2024). Mindfulness has a marketing challenge: Meeting it with an academic/practitioner research collaboration. Submitted to EJM. ([Working Paper](https://www.dropbox.com/scl/fi/ws1hdtrdretv17qrxey1a/EJM-04-2024-0341_Proof_hi.pdf?rlkey=h4bxric38f9b4dkanoutd9u5e&dl=0))
 
-Sarmiento, L.F., Rios-Flores, J.A., Rincon Uribe, F., Rodrigues Lima, R., Kalenscher, T., Gouveia, A., **Nitsch, F.J.**,+ (2024). Pharmacological interventions on the HPA axis and/or SAM System and decision-making: a systematic review. Minor revisions at Social, Cognitive, and Affective Neuroscience. ([Working Paper](https://www.dropbox.com/scl/fi/l6m28bstpjb0nhsjz5qil/2024-06-06_Pharma-Review-Revisions-AR_FJN.pdf?rlkey=e85snenrj91jl08558mq2pacb&dl=0))
+Sarmiento, L.F., Rios-Flores, J.A., Rincon Uribe, F., Rodrigues Lima, R., Kalenscher, T., Gouveia, A., **Nitsch, F.J.+**, (2024). Pharmacological interventions on the HPA axis and/or SAM System and decision-making: a systematic review. Minor revisions at Social, Cognitive, and Affective Neuroscience. ([Working Paper](https://www.dropbox.com/scl/fi/l6m28bstpjb0nhsjz5qil/2024-06-06_Pharma-Review-Revisions-AR_FJN.pdf?rlkey=e85snenrj91jl08558mq2pacb&dl=0))
 
 # Selected Publications
 
 ## 2023
 
-Burkhardt, M.,+ **Nitsch, F.J.**,++ Spinler, S., & Van Wassenhove, L. (2023). The Effect of Acute Stress on Humanitarian Supplies Management. Production and Operations Management (POM). FT Top 50 ([online](https://doi.org/10.1111/poms.13993), [pdf](https://www.dropbox.com/scl/fi/p167az9zpok661r9xz8jt/burkhardt-et-al-2023-the-effect-of-acute-stress-on-humanitarian-supplies-management-2.pdf?rlkey=ry4xlunuqeryiydqbivhir794&dl=0))
+Burkhardt, M.++, **Nitsch, F.J.++**, Spinler, S., & Van Wassenhove, L. (2023). The Effect of Acute Stress on Humanitarian Supplies Management. Production and Operations Management (POM). FT Top 50 ([online](https://doi.org/10.1111/poms.13993), [pdf](https://www.dropbox.com/scl/fi/p167az9zpok661r9xz8jt/burkhardt-et-al-2023-the-effect-of-acute-stress-on-humanitarian-supplies-management-2.pdf?rlkey=ry4xlunuqeryiydqbivhir794&dl=0))
 
 ## 2022
 
@@ -27,7 +27,7 @@ Burkhardt, M.,+ **Nitsch, F.J.**,++ Spinler, S., & Van Wassenhove, L. (2023). Th
 
 **Nitsch, F. J.** & Kalenscher, T. (2021). Influence of memory processes on choice consistency. Royal Society Open Science, 8(10), 200308. Impact factor: 3.653. ([online](https://doi.org/10.1098/rsos.200308), [pdf](https://www.dropbox.com/scl/fi/nrk5tg81x84s4lkawf7fk/nitsch-kalenscher-2021-influence-of-memory-processes-on-choice-consistency.pdf?rlkey=v0xhil00k2jnnhga7p11ubfmy&dl=0))
 
-**Nitsch, F. J.**,++ Strenger, H.,+ Knecht, S., & Studer, B. (2021). Lesion Evidence for a Causal Role of the Insula in Aversion to Social Inequity. Social Cognitive and Affective Neuroscience, nsab098. Impact factor: 4.235. ([online](https://doi.org/10/gmfpxm), [pdf](https://www.dropbox.com/scl/fi/g9tl9ceeplzq45pjc08zq/nsab098.pdf?rlkey=ljhh595tjoftfkujk72jbptnh&dl=0))
+**Nitsch, F. J.++**, Strenger, H.++, Knecht, S., & Studer, B. (2021). Lesion Evidence for a Causal Role of the Insula in Aversion to Social Inequity. Social Cognitive and Affective Neuroscience, nsab098. Impact factor: 4.235. ([online](https://doi.org/10/gmfpxm), [pdf](https://www.dropbox.com/scl/fi/g9tl9ceeplzq45pjc08zq/nsab098.pdf?rlkey=ljhh595tjoftfkujk72jbptnh&dl=0))
 
 **Nitsch, F. J.**, Sellitto, M., & Kalenscher, T. (2021). The effects of acute and chronic stress on choice consistency. Psychoneuroendocrinology, 131, 105289. Impact factor: 4.693. ([online](https://doi.org/10/gk9pvk), [pdf](https://www.dropbox.com/scl/fi/drltzj3aaodqxauk9cxzz/2021-05-18_Revised-Manuscript_GARP-Stress_noTitlepage.pdf?rlkey=4odm1408v2wm0nhxwbri3w1e2&dl=0))
 
