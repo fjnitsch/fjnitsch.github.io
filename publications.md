@@ -33,7 +33,7 @@ Burkhardt, M.++, **Nitsch, F.J.++**, Spinler, S., & Van Wassenhove, L. (2023). T
 
 ___
 
-"+" = last author (senior author) in neuroscience tradition
+"+" = last author (senior author) in neuroscience tradition, 
 "++" = equal contributions
 
 Please see also my [Google Scholar](https://scholar.google.com/citations?user=hCelLF8AAAAJ&hl=en&oi=ao) page.
