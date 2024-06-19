@@ -5,7 +5,7 @@ filename: publications.md
 
 # Working Papers
 
-**Nitsch, F.J.**, Wertenbroch, K., & Plassmann, H. (2024). Why People Post. Targeting JMR. ([Working Paper](https://www.dropbox.com/scl/fi/sxlwxr9n99i255a1aqhtz/Appendix-WPP-140625-for-submission.pdf?rlkey=q2y5yljafy3b9i92ksq8cusof&dl=0))
+**Nitsch, F.J.**, Wertenbroch, K., & Plassmann, H. (2024). Why People Post. Submitted to JMR. ([Working Paper](https://www.dropbox.com/scl/fi/sxlwxr9n99i255a1aqhtz/Appendix-WPP-140625-for-submission.pdf?rlkey=q2y5yljafy3b9i92ksq8cusof&dl=0))
 
 **Nitsch, F.J.** & Plassmann, H. (2024). Understanding the Intersections of Stress and the Marketplace to Improve Consumer Well-Being. Submitted to JCR. ([Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816043))
 
