@@ -1,4 +1,5 @@
-# About Me
+
+![INSEAD](/images/header.jpeg)
 
 I am a [Postdoctoral Researcher](https://www.insead.edu/faculty-research/faculty/felix-jan-nitsch) in Marketing at INSEAD. I am on the 2024 job market for faculty positions in Marketing.
 
