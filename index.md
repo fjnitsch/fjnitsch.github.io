@@ -1,7 +1,7 @@
 
 ![INSEAD](/images/header.jpg)
 
-I am a [Postdoctoral Researcher](https://www.insead.edu/faculty-research/faculty/felix-jan-nitsch) in Marketing at INSEAD. I am on the 2024 job market for faculty positions in Marketing.
+I am a [Postdoctoral Researcher](https://www.insead.edu/faculty-research/faculty/felix-jan-nitsch) in Marketing at INSEAD. I am on the 2024/25 academic job market. I am mainly focused on positions in Marketing, but I'm open to exploring opportunities in other departments that share similar interests.
 
 I am interested in consumer and managerial judgment and decision-making, and their two-way relationship with mental well-being. My goal is to understand how psychological stressors and incentives shape behavior and, vice versa, how consumers’ and marketing managers’ decisions affect consumer mental well-being.
 
