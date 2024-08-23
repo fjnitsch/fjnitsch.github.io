@@ -11,9 +11,11 @@ filename: publications.md
 
 Bee, C., Chung, N., **Nitsch, F.J.**, Nardini, G., Lutz, R., Rossi, A., Scheinbaum, A.C., & Song, E.C. (2024). Mindfulness has a marketing challenge: Meeting it with an academic/practitioner research collaboration. R&R at EJM. ([Working Paper](https://www.dropbox.com/scl/fi/ws1hdtrdretv17qrxey1a/EJM-04-2024-0341_Proof_hi.pdf?rlkey=h4bxric38f9b4dkanoutd9u5e&dl=0))
 
-Sarmiento, L.F., Rios-Flores, J.A., Rincon Uribe, F., Rodrigues Lima, R., Kalenscher, T., Gouveia, A., **Nitsch, F.J.+**, (2024). Do stress hormones influence choice? A systematic review of pharmacological interventions on the HPA axis and/or SAM system. ([Working Paper](https://www.dropbox.com/scl/fi/l6m28bstpjb0nhsjz5qil/2024-06-06_Pharma-Review-Revisions-AR_FJN.pdf?rlkey=e85snenrj91jl08558mq2pacb&dl=0))
-
 # Selected Publications
+
+## 2024
+
+Sarmiento, L.F., Rios-Flores, J.A., Rincon Uribe, F., Rodrigues Lima, R., Kalenscher, T., Gouveia, A., **Nitsch, F.J.+**, (2024). Do stress hormones influence choice? A systematic review of pharmacological interventions on the HPA axis and/or SAM system. Social Cognitive and Affective Neuroscience, accepted. Impact factor: 4.235. ([PDF](https://www.dropbox.com/scl/fi/tegzhypx4lbziwuofu1oo/Do-stress-hormones-influence-choice_-Systematic-Review.docx.pdf?rlkey=tc6dc3cpj8b0xabk2hpm0cphs&dl=0))
 
 ## 2023
 
