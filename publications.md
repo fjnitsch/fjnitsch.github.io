@@ -5,9 +5,9 @@ filename: publications.md
 
 # Working Papers
 
-**Nitsch, F.J.**, Wertenbroch, K., & Plassmann, H. (2024). Why People Post. Under review at JMR. ([Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874305))
+**Nitsch, F.J.**, Wertenbroch, K., & Plassmann, H. (2024). Why People Post. ([Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874305))
 
-**Nitsch, F.J.** & Plassmann, H. (2024). Understanding the Intersections of Stress and the Marketplace to Improve Consumer Well-Being. Under review at JCR. ([Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816043))
+**Nitsch, F.J.** & Plassmann, H. (2024). Understanding the Intersections of Stress and the Marketplace to Improve Consumer Well-Being. ([Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816043))
 
 Bee, C., Chung, N., **Nitsch, F.J.**, Nardini, G., Lutz, R., Rossi, A., Scheinbaum, A.C., & Song, E.C. (2024). Mindfulness has a marketing challenge: Meeting it with an academic/practitioner research collaboration. R&R at EJM. ([Working Paper](https://www.dropbox.com/scl/fi/ws1hdtrdretv17qrxey1a/EJM-04-2024-0341_Proof_hi.pdf?rlkey=h4bxric38f9b4dkanoutd9u5e&dl=0))
 
