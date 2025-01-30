@@ -5,7 +5,7 @@ filename: publications.md
 
 # Working Papers
 
-**Nitsch, F.J.**, Wertenbroch, K., & Plassmann, H. (2024). Why People Post. ([Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874305))
+**Nitsch, F.J.**, Wertenbroch, K., & Plassmann, H. (2024). A Reference-Dependent Model of Posting on Social Media to Obtain Status from Likes. ([Working Paper](https://www.dropbox.com/scl/fi/dbw3nryvx2rsme0b6yy31/20250130_Nitsch-JMP-Social-Media.pdf?rlkey=2n1836syukv5windtejg26kkq&st=oue91buv&dl=0))
 
 **Nitsch, F.J.** & Plassmann, H. (2024). Understanding the Intersections of Stress and the Marketplace to Improve Consumer Well-Being. ([Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816043))
 
